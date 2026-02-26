@@ -1,10 +1,6 @@
 # GitHub Pages Site (Jekyll + Minimal Mistakes)
 
 ## KR
-
-이 저장소는 GitHub Pages에서 동작하는 Jekyll 사이트입니다.
-개인 소개보다는 글/기록용 사이트를 빠르게 운영할 수 있도록 패키지와 설정 위주로 구성했습니다.
-
 ### 사용한 패키지 / 구성
 
 - `github-pages` (GitHub Pages 빌드 환경 기준)
@@ -53,5 +49,3 @@ It is set up as a content-focused blog/archive site, with the README documenting
 - Repo name `yerim.github.io` -> `https://ye-rim-oh.github.io/yerim.github.io/` (project page)
 
 ```
-
-Open `http://127.0.0.1:4000`.
