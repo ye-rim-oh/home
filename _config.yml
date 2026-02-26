@@ -21,8 +21,9 @@ enable_copy_code_button: true
 
 author:
   name: "Yerim Oh"
-  bio:
-  location: "Seoul, South Korea"
+  avatar: "/assets/images/profile-photo-placeholder.svg"
+  bio: "MA Candidate, Seoul National University"
+  location:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

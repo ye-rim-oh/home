@@ -18,7 +18,7 @@ GradCafe 정치학 PhD 결과 데이터를 2020년부터 2026년까지 다시 �
 <p>
   <a
     class="btn btn--primary"
-    href="https://martin-essai.shinyapps.io/gradcafe/"
+    href="https://z25die-0-0.shinyapps.io/gradcafe-master/"
     target="_blank"
     rel="noopener">
     Open Dashboard in New Tab
@@ -26,7 +26,7 @@ GradCafe 정치학 PhD 결과 데이터를 2020년부터 2026년까지 다시 �
 </p>
 
 <iframe
-  src="https://martin-essai.shinyapps.io/gradcafe/"
+  src="https://z25die-0-0.shinyapps.io/gradcafe-master/"
   title="GradCafe Shiny Dashboard"
   width="100%"
   height="920"
