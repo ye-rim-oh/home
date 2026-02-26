@@ -1,5 +1,3 @@
-# GitHub Pages Site (Jekyll + Minimal Mistakes)
-
 ## KR
 
 ### 사용한 패키지 / 구성
