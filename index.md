@@ -6,6 +6,19 @@ permalink: /
 classes: wide
 ---
 
+<!-- Replace /assets/images/profile-photo-placeholder.svg with your actual photo later -->
+<section class="cv-profile-hero">
+  <img
+    class="cv-profile-hero__avatar"
+    src="{{ '/assets/images/profile-photo-placeholder.svg' | relative_url }}"
+    alt="Yerim Oh profile photo">
+
+  <div class="cv-profile-hero__meta">
+    <h1>Yerim Oh</h1>
+    <p>MA Candidate, Seoul National University</p>
+  </div>
+</section>
+
 <p>
   <a
     class="btn btn--primary"
