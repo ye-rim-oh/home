@@ -15,7 +15,7 @@ GradCafe에 제출된 정치학 PhD 어드미션 데이터를 2020년부터 2026
 
 <p>
   <a
-    class="btn btn--primary"
+    class="btn btn--primary dashboard-open-btn"
     href="https://z25die-0-0.shinyapps.io/gradcafe-master/"
     target="_blank"
     rel="noopener">
@@ -23,13 +23,16 @@ GradCafe에 제출된 정치학 PhD 어드미션 데이터를 2020년부터 2026
   </a>
 </p>
 
-<iframe
-  src="https://z25die-0-0.shinyapps.io/gradcafe-master/"
-  title="GradCafe Shiny Dashboard"
-  width="100%"
-  height="720"
-  style="border: 1px solid #ddd; border-radius: 8px; background: #fff;">
-</iframe>
+<div class="dashboard-mobile-wrap">
+  <iframe
+    class="dashboard-mobile-frame"
+    src="https://z25die-0-0.shinyapps.io/gradcafe-master/"
+    title="GradCafe Shiny Dashboard"
+    width="100%"
+    height="760"
+    style="border: 1px solid #ddd; border-radius: 12px; background: #fff;">
+  </iframe>
+</div>
 
 ## 주의할 점
 
