@@ -1,5 +1,5 @@
 ---
-title: "GradCafe 2020-2026 정치학 PhD 트렌드 메모"
+title: "GradCafe 2020-2026 정치학 PhD 트렌드"
 slug: "gradcafe-2020-2026-trend-note"
 tags:
   - Admission
@@ -8,9 +8,7 @@ toc: true
 author_profile: false
 ---
 
-GradCafe 정치학 PhD 결과 데이터를 2020년부터 2026년까지 다시 스크래핑해 정리한 리포트를 읽고, 지원자 입장에서 의미 있어 보이는 포인트만 먼저 메모해둡니다.
-
-- 원문 리포트(웹에서 보기): [2020-2026 Comprehensive Trend Analysis]({{ '/reports/gradcafe-2020-2026-comprehensive/' | relative_url }})
+GradCafe에 제출된 정치학 PhD 어드미션 데이터를 2020년부터 2026년까지 스크래핑해 정리한 데이터를 바탕으로, 지원자 입장에서 의미 있어 보이는 포인트만 기록해두었습니다.
 - 기반 레포: [ye-rim-oh/GradCafe](https://github.com/ye-rim-oh/GradCafe)
 
 ## Interactive Dashboard
