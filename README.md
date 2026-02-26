@@ -26,15 +26,6 @@
 - 리포 이름이 `ye-rim-oh.github.io`이면: `https://ye-rim-oh.github.io/` (사용자 페이지)
 - 리포 이름이 `yerim.github.io`이면: `https://ye-rim-oh.github.io/yerim.github.io/` (프로젝트 페이지)
 
-### 로컬 미리보기 (선택)
-
-```bash
-bundle install
-bundle exec jekyll serve
-```
-
-브라우저에서 `http://127.0.0.1:4000` 접속
-
 ## EN
 
 This repository contains a Jekyll site for GitHub Pages.
@@ -61,11 +52,6 @@ It is set up as a content-focused blog/archive site, with the README documenting
 - Repo name `ye-rim-oh.github.io` -> `https://ye-rim-oh.github.io/` (user page)
 - Repo name `yerim.github.io` -> `https://ye-rim-oh.github.io/yerim.github.io/` (project page)
 
-### Local preview (optional)
-
-```bash
-bundle install
-bundle exec jekyll serve
 ```
 
 Open `http://127.0.0.1:4000`.
