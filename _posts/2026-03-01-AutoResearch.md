@@ -1,6 +1,6 @@
 ---
 title: "우리는 연구를 자동화할 수 있을 것인가"
-slug: "2026-03-01-AutoResearch"
+slug: "2026-03-01-AutoResearch.md"
 tags:
   - Academia
   - AI
