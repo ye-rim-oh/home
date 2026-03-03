@@ -30,8 +30,7 @@ author_profile: false
 - 정치이론가인 Matthew Cole 교수께서는 “양적 사회과학자들이 자기들도 쓰기 싫고 읽기 싫은 쓰레기를 찍어낸다는 걸 자백하는 방식”이라고 꼬집었습니다([Cole](https://x.com/mattbencole/status/2026357969114337785?s=20)).
 - University of Massachusetts Amherst의 Itai Sher 교수께서는 지속적으로 'AI가 수행하는 연구'에 대해서는 회의적인 시각을 견지하는 모습을 보입니다([Sher1](https://x.com/itaisher/status/2028628055300710772?s=20), [Sher2](https://x.com/itaisher/status/2022622746929447421?s=20), [Sher3](https://x.com/itaisher/status/2022128868480733554?s=20))
 
-### AI는 이미 어지간한 교수보다 연구를 잘한다? (26/03/03 추가)
-University of Notre Dame의 Keough School of Global Affairs 교수 Alexander Kustov께서도 "[AI can already do social science research better than most professors with PhDs](https://x.com/akoustov/status/2028623202306428986?s=20)" 라는 도발적인 트위터 게시글을 올리셨습니다. [블로그](https://alexanderkustov.substack.com/p/academics-need-to-wake-up-on-ai)에서 "인공지능에 대한 반대의 상당 부분은 원칙이라는 이름으로 위장된 지위 보호에 불과하다(Much of the opposition to AI is status protection dressed up as principle)" 라고 언급하며, 특히 블루스카이에 있는 학자들이 현상을 부정하고 있다고 꼬집습니다. 
+
 
 
 
@@ -43,6 +42,11 @@ Sean 교수께서 말을 세게 하긴 했지만, Rex 박사님 말처럼 적절
 
 ### 후속 논의와 한국 학계
 Sean 교수는 이후에도(특히 블루스카이 쪽 반응을 의식했는지) 후속 트윗을 올렸습니다([후속 1](https://x.com/seanjwestwood/status/2026076268735742443?s=20), [후속 2](https://x.com/seanjwestwood/status/2026852781676528015?s=20)). 블루스카이는 어떤 곳인 걸까요?
+
+#### AI는 이미 어지간한 교수보다 연구를 잘한다? (26/03/03 추가)
+- University of Notre Dame의 Keough School of Global Affairs 교수 Alexander Kustov께서도 "[AI can already do social science research better than most professors with PhDs](https://x.com/akoustov/status/2028623202306428986?s=20)" 라는 도발적인 트위터 게시글을 올리셨습니다. [블로그](https://alexanderkustov.substack.com/p/academics-need-to-wake-up-on-ai)에서 "인공지능에 대한 반대의 상당 부분은 원칙이라는 이름으로 위장된 지위 보호에 불과하다(Much of the opposition to AI is status protection dressed up as principle)" 라고 언급하며, 특히 블루스카이에 있는 학자들이 현상을 부정하고 있다고 꼬집습니다. 
+
+- Baylor University의 Scott Cunningham 교수께서도 저널 출판의 현실적인 미래에 대해 언급하는 글을 올리셨습니다([Research and Publishing Are Now Two Different Things](https://causalinf.substack.com/p/claude-code-27-research-and-publishing/comments)). 우리나라의 교수 임용의 경우 미국보다도 더 양적 지표에 의존하는 경향이 있어서 우리나라도 남 일이 아니지요.
 
 한국 학계에서는 대표적으로 디지털 인문학을 주로 하시는 유인태(Intae Ryu) 교수님([Ryu](https://x.com/desemboltura))과 인제대 의대의 안상진(Sangzin Ahn) 교수님([Ahn](https://x.com/mahler83))이 관련 논점을 비교적 선도적으로, 그리고 자주 언급하고 계시니 참고하시면 좋겠습니다.
 
