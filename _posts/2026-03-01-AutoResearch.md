@@ -31,7 +31,7 @@ author_profile: false
 - University of Massachusetts Amherst의 Itai Sher 교수께서는 지속적으로 'AI가 수행하는 연구'에 대해서는 회의적인 시각을 견지하는 모습을 보입니다([Sher1](https://x.com/itaisher/status/2028628055300710772?s=20), [Sher2](https://x.com/itaisher/status/2022622746929447421?s=20), [Sher3](https://x.com/itaisher/status/2022128868480733554?s=20))
 
 ### AI는 이미 어지간한 교수보다 연구를 잘한다? (26/03/03 추가)
-University of Notre Dame의 Keough School of Global Affairs 교수 Alexander Kustov께서도 "[AI can already do social science research better than most professors with PhDs](https://x.com/akoustov/status/2028623202306428986?s=20)" 라는 도발적인 트위터 게시글을 올리셨습니다. [블로그](https://alexanderkustov.substack.com/p/academics-need-to-wake-up-on-ai)에서 "인공지능에 대한 반대의 상당 부분은 원칙이라는 이름으로 위장 지위 보호에 불과하다(Much of the opposition to AI is status protection dressed up as principle)" 라고 언급하며, 특히 블루스카이에 있는 학자들이 현상을 부정하고 있다고 꼬집습니다. 
+University of Notre Dame의 Keough School of Global Affairs 교수 Alexander Kustov께서도 "[AI can already do social science research better than most professors with PhDs](https://x.com/akoustov/status/2028623202306428986?s=20)" 라는 도발적인 트위터 게시글을 올리셨습니다. [블로그](https://alexanderkustov.substack.com/p/academics-need-to-wake-up-on-ai)에서 "인공지능에 대한 반대의 상당 부분은 원칙이라는 이름으로 위장된 지위 보호에 불과하다(Much of the opposition to AI is status protection dressed up as principle)" 라고 언급하며, 특히 블루스카이에 있는 학자들이 현상을 부정하고 있다고 꼬집습니다. 
 
 
 
