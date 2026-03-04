@@ -1,5 +1,5 @@
 ---
-title: "우리는 연구를 자동화할 수 있을 것인가"
+title: "AI가 사회과학 연구를 할 수 있을까"
 slug: "2026-03-01-AutoResearch.md"
 tags:
   - Academia
