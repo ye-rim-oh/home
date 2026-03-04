@@ -35,9 +35,9 @@ author_profile: false
 
 
 ### 제 생각
-Sean 교수께서 말을 세게 하긴 했지만, Rex 박사님 말처럼 적절한 데이터가 있고(그리고 사용자가 그걸 필터링할 역량이 있다면) 저서/논문 PDF를 기계가 읽을 수 있는 형태로 정리해둔다면 선행연구 파트는 상당 부분 자동화가 가능할 것이라고 생각합니다. 데이터 분석도 사실 AI의 특화 분야이니, 전반적으로 논문을 대신할 수 있는 다른 방안을 고려할 필요가 있다는 데에 동의하는 편이라고 정리할 수 있을 것 같네요. 
+- Sean 교수께서 말을 세게 하긴 했지만 Rex 박사님 말씀처럼 적절한 데이터가 있고(그리고 사용자가 그걸 필터링할 역량이 있다면) 저서/논문 PDF를 기계가 읽을 수 있는 형태로 정리해둔다면 선행연구 파트는 상당 부분 자동화가 가능할 것이라고 생각합니다. 데이터 분석도 사실 AI의 특화 분야이니, 전반적으로 논문을 대신할 수 있는 다른 방안을 고려할 필요가 있다는 데에 동의하는 편이라고 정리할 수 있을 것 같네요. 
 
-결국 Kyle Saunders 교수님의 말씀처럼, AI가 교육을 망치는 게 아니라 대학이 얼마나 취약한 사고의 대리 지표에 기대 왔는지를 직면하게 만드는 측면이 있습니다([Saunders](https://kylesaunders.substack.com/p/why-higher-educations-ai-backlash?r=i13e)).
+- AI를 활용한 연구는 모두 질이 떨어진다는 일부 사람들의 주장에 대해서 제 의견을 언급하자면, 저 같은 허접 연구자도 데이터만 있다면 그럴듯한 출판물을 뽑아낼 수 있게 되었으니 당연히 허접 워킹 페이퍼와 산출물이 많아질 순 있겠지만, 잘 쓰는 교수/연구자가 "분야별로(예를 들어 선행연구의 요약 → 양적 연구를 위한 '바이브'코딩)" 사용해서 세세하게 효율성을 제고시킬 경우는 아예 고려하지 않는 경우가 많더군요. Alexander Kustov 교수의 블로그에도 언급되었듯 이미 초록만 보고 대충 인용하는 경우도 적지 않을텐데 말입니다.
 
 
 ### 후속 논의
@@ -46,11 +46,12 @@ Sean 교수는 이후에도(특히 블루스카이 쪽 반응을 의식했는지
 #### AI는 이미 어지간한 교수보다 연구를 잘한다? (26/03/04 추가)
 - University of Notre Dame의 Keough School of Global Affairs 교수 Alexander Kustov께서도 "[AI can already do social science research better than most professors with PhDs](https://x.com/akoustov/status/2028623202306428986?s=20)" 라는 도발적인 트위터 게시글을 올리셨습니다. [블로그](https://alexanderkustov.substack.com/p/academics-need-to-wake-up-on-ai)에서 "인공지능에 대한 반대의 상당 부분은 원칙이라는 이름으로 위장된 지위 보호에 불과하다(Much of the opposition to AI is status protection dressed up as principle)" 라고 언급하며, 특히 블루스카이에 있는 학자들이 현상을 부정하고 있다고 꼬집습니다.
   - 번외로 위 블로그 아티클은 100% Claude로 작성되었다고 작성자가 밝혔는데, AI로 쓴 글을 가장 잘 판별한다고 트위터에서 홍보되던 Pangram에 의하면 ["Fully Human Written"](https://x.com/akoustov/status/2028877336007840048?s=20)이라는 것 같더군요🤔
+ 
+  - 결국 Kyle Saunders 교수님의 말씀처럼, AI가 교육을 망치는 게 아니라 대학이 얼마나 취약한 사고의 대리 지표에 기대 왔는지를 직면하게 만드는 측면이 있습니다([Saunders](https://kylesaunders.substack.com/p/why-higher-educations-ai-backlash?r=i13e)).
 
 - Baylor University의 Scott Cunningham 교수께서도 저널 출판의 현실적인 미래에 대해 언급하는 글을 올리셨습니다([Research and Publishing Are Now Two Different Things](https://causalinf.substack.com/p/claude-code-27-research-and-publishing/comments)). 우리나라의 교수 임용의 경우 미국보다도 더 양적 지표에 의존하는 경향이 있어서 우리나라도 남 일이 아니지요.
 
 - 결국 브루킹스 연구소에서 이러한 학계의 실태를 다루는 코멘터리 글이 올라왔습니다([열차는 떠났다](https://www.brookings.edu/articles/the-train-has-left-the-station-agentic-ai-and-the-future-of-social-science-research/)).
-- AI를 활용한 연구는 모두 질이 떨어진다는 일부 사람들의 주장에 대해서 제 의견을 언급하자면, 저 같은 허접 연구자도 데이터만 있다면 그럴듯한 출판물을 뽑아낼 수 있게 되었으니 당연히 허접 워킹 페이퍼와 산출물이 많아질 순 있겠지만, 잘 쓰는 교수/연구자가 "일부 분야(예를 들어 선행연구의 요약이나, 양적 연구를 위한 코딩을 '바이브'로 한다던가)"에 국한해서 효율성을 제고시킬 경우는 아예 고려하지 않는 경우가 많더군요. Alexander Kustov 교수의 블로그에도 언급되었듯 이미 초록만 보고 대충 인용하는 경우도 적지 않을텐데 말입니다.
 
 ### 한국 학계에서의 논의?
 
