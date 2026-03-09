@@ -1,6 +1,8 @@
 ---
-title: "AI가 사회과학 연구를 할 수 있을까"
-slug: "2026-03-01-AutoResearch.md"
+title: AI가 사회과학 연구를 할 수 있을까
+slug: 2026-03-01-AutoResearch.md
+date: 2026-03-01
+last_modified_at: 2026-03-09
 tags:
   - Academia
   - AI
@@ -62,5 +64,5 @@ Sean 교수는 이후에도(특히 블루스카이 쪽 반응을 의식했는지
 
 ### 한국 학계에서의 논의?
 
-한국 학계에서는 대표적으로 디지털 인문학을 주로 하시는 유인태(Intae Ryu) 교수님([Ryu](https://x.com/desemboltura))과 인제대 의대의 안상진(Sangzin Ahn) 교수님([Ahn](https://x.com/mahler83))이 관련 논점을 비교적 선도적으로, 그리고 자주 언급하고 계시니 참고하시면 좋겠습니다.
+한국 학계에서는 대표적으로 디지털 인문학을 주로 하시는 [유인태 교수님](https://x.com/desemboltura)과 인제대 의대의 [안상진 교수님](https://x.com/mahler83))이 관련 논점을 비교적 선도적으로, 그리고 자주 언급하고 계시니 참고하시면 좋겠습니다.
 
