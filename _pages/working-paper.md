@@ -1,18 +1,18 @@
 ---
-title: "Working Paper"
-permalink: /working-paper/
+title: "Experimental Articles"
+permalink: /experimental-articles/
 author_profile: true
 ---
 
 <aside class="work-note">
   <strong>Disclosure</strong>
-  <p>Research ideas, questions, and study design are mine.</p>
-  <p>AI assistance, when used, is limited to coding, implementation, and workflow automation unless a paper notes otherwise.</p>
+  <p>Most pieces here began as term papers I wrote during the semester or as early research ideas developed in class.</p>
+  <p>I am now revising and extending some of them into experimental articles, with AI assistance limited to coding, drafting support, and implementation unless noted otherwise.</p>
 </aside>
 
-This page collects in-progress projects, early research notes, and working papers that are not yet in final publication form.
+This page collects experimental articles and exploratory papers that grew out of semester term papers and early research notes.
 
-Some entries may remain short while a project is still being scoped. When a paper grows into a fuller draft, I will expand the write-up here.
+Some entries may remain short while a project is still being tested or expanded. When a piece develops into a fuller research draft, I will update the write-up here.
 
 {% assign papers = site.working_papers | sort: "date" | reverse %}
 <section class="working-paper-list">
@@ -32,6 +32,6 @@ Some entries may remain short while a project is still being scoped. When a pape
       </article>
     {% endfor %}
   {% else %}
-    <p>No working papers posted yet.</p>
+    <p>No experimental articles posted yet.</p>
   {% endif %}
 </section>
