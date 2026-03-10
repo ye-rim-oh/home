@@ -2,6 +2,8 @@
 title: "Experimental Articles"
 permalink: /experimental-articles/
 author_profile: true
+redirect_from:
+  - /working-paper/
 ---
 
 This page collects term papers I wrote during the semester and am now revising and developing further. This page will be updated as revised files are added over time.

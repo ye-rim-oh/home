@@ -41,6 +41,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-redirect-from
   - jekyll-remote-theme
 
 markdown: kramdown
@@ -53,7 +54,7 @@ include:
 collections:
   working_papers:
     output: true
-    permalink: /working-papers/:path/
+    permalink: /experimental-articles/:path/
 
 exclude:
   - .sass-cache

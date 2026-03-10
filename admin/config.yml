@@ -62,7 +62,7 @@ collections:
     folder: _working_papers
     create: true
     slug: "{{slug}}"
-    preview_path: "working-papers/{{slug}}"
+    preview_path: "experimental-articles/{{slug}}"
     editor:
       preview: true
     fields:

@@ -3,6 +3,8 @@ title: Is the Free and Open Indo-Pacific Liberal?
 date: 2026-03-09
 status: Draft
 author_profile: false
+redirect_from:
+  - /working-papers/is-the-free-and-open-indo-pacific-liberal/
 ---
 <iframe
   src="https://drive.google.com/file/d/1oFeZ8lyOmNEfbUGaDm6VxWPJ_Ez2daJW/preview"
