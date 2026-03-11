@@ -18,9 +18,9 @@ My personal curiosity stemmed from the growing number of multi-cultural families
 
 Since I'm just a Master’s student, conducting my own large-scale survey wasn't an option, so I had to work with the available data as a proxy. Under South Korean law, the term 'population with foreign background' is quite broad—it includes foreign nationals, naturalized citizens, second-generation immigrants, and even North Korean defectors. 
 
-Fortunately, the KGSS (Korean General Social Survey), which is the most extensive dataset I could access, provides data on 'parents' nationality' alongside respondents' socio-political perceptions.Unfortunately, parents' nationality was only recorded starting in 2016, and the total number of respondents with foreign-born parents was fewer than 50 across the entire period. 
+Fortunately, the KGSS (Korean General Social Survey), which is the most extensive dataset I could access, provides data on parents' nationality alongside respondents' socio-political perceptions. Unfortunately, parents' nationality was only recorded starting in 2016, and the total number of respondents with foreign-born parents was fewer than 50 across the entire period. 
 
-I initially tested for differences across political, social, and economic metrics, but since there were no significant gaps in the first two, I decided to narrow my focus specifically to the economic aspect where some variation was visible. 
+I initially tested for differences across political, social, and economic issues, but since there were no significant gaps in the first two, I decided to narrow my focus specifically to the economic aspect where some variation was visible. 
 
 Unsurprisingly, the results didn't show anything groundbreaking. It basically just hinted that people with immigrant backgrounds might prefer more welfare, but that's about it. I actually submitted a super rough draft of this to a contest earlier, and yeah... I got rejected immediately.
 
