@@ -1,8 +1,8 @@
 ---
-title: GradCafe 기반 2020-2026 정치학 PhD 어드미션 트렌드
+title: "Political Science PhD Admission Trends on GradCafe, 2020-2026"
 slug: gradcafe-2020-2026-trend-note
 date: 2026-03-04
-last_modified_at: 2026-03-04
+last_modified_at: 2026-03-12
 tags:
   - Admission
   - Academia
@@ -10,10 +10,11 @@ toc: true
 author_profile: false
 ---
 
-GradCafe에 제출된 정치학 PhD 어드미션 데이터를 2020년부터 2026년까지 스크래핑해 정리한 뒤, 지원자 관점에서 의미 있어 보이는 포인트를 기록했습니다.
-- 기반 레포: [ye-rim-oh/GradCafe](https://github.com/ye-rim-oh/GradCafe)
+This post summarizes scraped GradCafe reports on political science PhD admissions from 2020 through 2026 and highlights patterns that seem meaningful from an applicant's point of view.
 
-> 업데이트: 2026-03-04 기준으로 2020-2026 전체 시즌을 다시 스크랩해 수치를 갱신했습니다.
+- Base repository: [ye-rim-oh/GradCafe](https://github.com/ye-rim-oh/GradCafe)
+
+> Update: as of 2026-03-04, I re-scraped the full 2020-2026 span and refreshed the reported values.
 
 ## Interactive Dashboard
 
@@ -38,18 +39,20 @@ GradCafe에 제출된 정치학 PhD 어드미션 데이터를 2020년부터 2026
   </iframe>
 </div>
 
-## 주의할 점
+## Caveats
 
-- GradCafe의 보고는 지원자가 자발적으로 보고하는 형식이기 때문에 당연히 모집단 전체를 대표하지 않습니다. 
-    - 1명의 지원자가 다수의 대학에 지원하고 그 결과를 보고하는 경우가 많아서, 총 12건이 보고되었다고 해서 12명의 샘플이 되는 것이 아니라 6명이 2개 학교의 결과를, 혹은 3명이 4개 학교에 대한 결과를 제출했을 수도 있습니다.
-- 특히 GRE 점수, 세부전공, 국적 정보는 누락/편향이 큽니다.
-- 본 글의 수치는 2026년 3월 4일 일자 기준입니다.
+- GradCafe reports are self-posted and should not be treated as representative of the full applicant pool.
+- One applicant may report outcomes from multiple schools, so a count of reports should not be read as the same thing as a count of unique applicants.
+- GRE, subfield, and nationality information are especially incomplete and potentially biased.
+- The statistics in this post are current as of March 4, 2026.
 
-그래도 학교별로 언제 발표가 몰리는지, 연도별 체감 경쟁 강도 정도를 읽는 데는 꽤 유용합니다.
+Even with those limitations, the data are still useful for reading broad patterns such as when results cluster, how competitive cycles feel across years, and how large nationality gaps appear to be.
 
-## 핵심 요약
+## Key Summary
 
-### Summary Table
+The full report includes **3,766 cases**, and the 2026 season alone contributes **858 cases**, the largest annual sample in the series.
+
+## Summary Table
 
 | Year | Total Cases | Overall Accept Rate | American Cases | American Accept Rate | International Cases | International Accept Rate | GRE V mean | GRE Q mean | GPA Reporting Rate |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -61,30 +64,27 @@ GradCafe에 제출된 정치학 PhD 어드미션 데이터를 2020년부터 2026
 | 2025 | 505 | 36.5% | 176 | 41.5% | 329 | 33.7% | 163.4 | 165.3 | 57.8% |
 | 2026 | 858 | 34.5% | 366 | 42.5% | 492 | 28.5% | 163.9 | 165.8 | 66.7% |
 
-- 2026 입학 시즌 표본 규모는 2020-2026 중 최대를 기록했습니다.
-- 전체 합격률은 최근 두 시즌 모두 30%대 중반이고, 이전 고점(2020/2023년 45.9%) 대비 낮게 나타났습니다.
-- 2026 입학 시즌의 국적 격차는 **14\.1%p**(American 42\.5% - International 28\.5%)입니다.
+- The 2026 sample is the largest in the 2020-2026 window.
+- Overall acceptance has stayed in the mid-30% range for the last two cycles, below the earlier highs.
+- The 2026 nationality gap is **14.1 percentage points**.
 
-## 눈에 띈 점
+## Patterns That Stand Out
 
 ### 1) American > International
 
-연도별 변동은 있지만, 대부분 해에서 American 합격률이 International보다 높습니다.
-예외는 2022년(International 48.8% > American 40.4%)이고, 2026년에는 격차가 다시 크게 벌어졌습니다.
+There is year-to-year variation, but in most years American applicants show a higher acceptance rate than international applicants. The main exception is 2022, and by 2026 the gap widens again.
 
-### 2) 시즌 타이밍은 여전히 2월 초중순 중심
+### 2) Timing Still Centers on Early to Mid-February
 
-`Median Final`은 2020년을 제외하면 대체로 2월 초중순에 모입니다.
-2026년의 `Median Final`은 **02/10**로, 전형적인 패턴에 가깝습니다.
+Except for 2020, `Median Final` generally clusters in early to mid-February. In 2026, the median final date is **02/10**, which looks very typical for this series.
 
-### 3) 세부전공 해석은 여전히 보수적으로
+### 3) Be Careful With Subfield Interpretation
 
-2026 기준으로도 `Subfield Known %`가 **26\.2%** 수준이라, 세부전공 비교는 방향성 참고용으로 보는 것이 안전합니다.
-다만 보고된 범위에서는 CP 태그가 가장 자주 등장합니다.
+Even in 2026, `Subfield Known %` is only **26.2%**, so subfield comparisons should be treated as directional rather than definitive. Within the reported subset, the CP tag appears most often.
 
-### 4) GRE/GPA와 합격의 선형 상관은 매우 약함
+### 4) Linear Correlation Between GRE or GPA and Admission Is Very Weak
 
-2020-2026 합산 기준 점수-합격 상관은 다음과 같습니다.
+Across the full 2020-2026 sample, the score-admission correlations are:
 
 | Metric | Valid N | Correlation r | p-value | Interpretation |
 | --- | --- | --- | --- | --- |
@@ -93,22 +93,19 @@ GradCafe에 제출된 정치학 PhD 어드미션 데이터를 2020년부터 2026
 | GRE Q | 881 | 0.117 | 0.0005 | Very weak linear correlation |
 | GRE AW | 812 | 0.005 | 0.8952 | No meaningful linear correlation |
 
-유의성이 있더라도 효과 크기 자체는 작아서, 실전에서는 다른 요인(연구적합도, 추천서, writing sample, 학교별 핏)이 더 큰 변동을 만들 가능성이 큽니다.
+Even where the coefficients are statistically significant, the effect sizes are small. In practice, research fit, letters, writing samples, and school-specific cutoffs are likely doing more of the explanatory work.
 
-## 지원자 관점
+## Applicant Takeaways
 
-1. **발표는 대체로 2월 중순**
-   - 이 구간에 주요 대학들의 Accept/Reject 결과가 몰립니다.
+1. **Decisions cluster in mid-February**<br>
+   Most major programs release accept or reject outcomes around this period.
 
-2. **초반 표본만 보고 시즌 전체를 단정하지 않기**
-   - 2026년처럼 초반 표본이 크게 늘어나는 해도 있습니다.
-   - 후반 업데이트(특히 waitlist 등)가 일부 지표를 바꿀 수 있습니다.
-   - 이와 별개로 이번 사이클에서 Duke는 총 3명, Georgetown은 총 6명을 받았다는 썰(gradcafe 발)이 있는데 정말 힘든 시즌이긴 했네요.
+2. **Do not infer the whole cycle from early reports alone**<br>
+   Some years, like 2026, expand substantially after the first wave of reports, and later updates such as waitlist outcomes can shift the picture.
+   Separate GradCafe chatter also suggested very small incoming cohorts at some programs, which is consistent with how competitive the cycle felt.
 
-3. **국적/전공/GRE 표는 "분위기 지표"일 뿐**
-   - 개인 결과 예측 모델로 쓰기엔 누락된 데이터가 너무 많습니다.
+3. **Nationality, subfield, and GRE tables are better read as rough signals**<br>
+   There is too much missing information to treat these tables as predictive models for individual outcomes.
 
-4. **정량 스펙만으로 설명되지 않는 구간**
-   - GRE/GPA와 합격 간 상관관계가 약하다는 점은 정량적 요소 외에도 영향을 주는 것들이 많다고 해석이 가능하고, 교과서적으로는 학교별 fit을 중심으로 전략 짜는 편이 현실적입니다.
-   - 하지만 그와 별개로 2026년도 사이클의 어드미션 결과 포스팅을 실시간으로 봤는데, 보통 GRE 합 330에 AW 5+아이비리그 학부인 학생들은 상위 대학 골라가는 걸 보면 그래도 역시 스펙은 중요한 것 같습니다ㅎㅎ;
-
+4. **A large share of the outcome is not explained by quantitative credentials alone**<br>
+   Weak GRE and GPA correlations suggest that non-quantitative factors matter a great deal. At the same time, very strong quantitative profiles still appear repeatedly among applicants admitted to top programs, so the right conclusion is not that credentials do not matter, but that they do not explain outcomes by themselves.
