@@ -51,13 +51,14 @@ This time, I asked Claude Code to use the data directly, build a dashboard itsel
     </iframe>
   </div>
 
-South Korean social values in 2025 resist easy left–right mapping. What runs through the data instead is a tension between near-universal procedural commitments — fairness, legal equality, intergenerational responsibility — and deep disagreement over what those commitments imply in practice.
+Korean social values resist easy left-right mapping. The data traces a tension between near-universal procedural commitments — fairness, legal equality, intergenerational responsibility — and deep disagreement over what those commitments imply in practice.
 
-The generational divide is sharpest on the least overtly political terrain. Traditional family expectations around motherhood and marriage separate 20s from 70s by over a full scale point, while attitudes toward abstract equality barely differ across generations. The gender divide is sharpest where the disagreement is empirical: not whether women should be equal, but whether the wage gap reflects legitimate factors. On that question, 20s men and 20s women are more than a point apart.
+The generational divide is sharpest on the least overtly political terrain. Traditional family expectations around motherhood and marriage separate the 20s from the 70s by over a full scale point, while attitudes toward abstract equality barely differ across generations. The gender divide is sharpest where the disagreement is empirical: not whether women should be equal, but whether the wage gap reflects legitimate factors. On that question, 20s men and 20s women are more than a point apart.
 
-Equality reads as procedural across the board — equal rules score above 4.0, equal outcomes below 2.5. Justice reads as retributive, consistently and broadly. The "too sensitive" item is a near-consensus number that conceals opposite frustrations depending on who is answering.
+Equality reads as procedural throughout: equal rules score above 4.0, equal outcomes below 2.5. Justice reads as retributive, consistently and broadly. The "too sensitive" item is a near-consensus number that conceals opposite frustrations depending on who is answering.
 
-The one signal that reads differently is social alienation among young men. The absolute scores remain low. But generational & class grievance, discourse norm frustration, and mild nihilistic ideation cluster in the same cohort — and that combination is worth continued observation.
+Social alienation among young men is the one signal that sits apart from the rest. The absolute scores remain low — but generational grievance, discourse norm frustration, and mild nihilistic ideation cluster in the same cohort. That combination doesn't explain anything yet. It's worth watching.
+
 
 - Detailed Analysis by Claude Code is available in [my github repo](https://github.com/ye-rim-oh/mbc-survey-dashboard).
 
