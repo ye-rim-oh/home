@@ -4,7 +4,7 @@ date: 2026-03-13
 toc: true
 author_profile: false
 ---
-\### Intriguing Free Data
+\### Intriguing \*Free\* Data
 
 Before the South Korea’s 21st presidential election (June 3, 2025), South Korea's public broadcaster MBC conducted a survey using a familiar format called the "Political Blood Type Test." As of today (March 13, 2026), more than 300,000 people have visited the site.
 
@@ -22,17 +22,33 @@ In fact, the conclusion of the blog post I wrote by myself on May 17, 2025, was 
 2. Do not leave the “interpretation” of charts or data to an LLM.
 3. In South Korea, there is no state religion, and public conflict over race has not yet become especially salient, so the only issues that seem capable of generating real political cleavage are things like women’s rights and economic redistribution. It all felt a bit repetitive.
 
-
 That was basically what I wrote.
 This time, I asked Claude Code to use the data directly, build a dashboard itself, and write an analytical report based on the actual files.
 
+\### Result Dashboard
 
-\### Visualization Dashboard
+ <p>
+    <a
+      class="btn btn--primary dashboard-open-btn"
+      href="https://z25die-0-0.shinyapps.io/mbc-survey-dashboard/"
+      target="_blank"
+      rel="noopener">
+      Open Dashboard in New Tab
+    </a>
+  </p>
 
-analysis by Claude Code is available in my github repo
+  <div class="dashboard-mobile-wrap">
+    <iframe
+      class="dashboard-mobile-frame"
+      src="https://z25die-0-0.shinyapps.io/mbc-survey-dashboard/"
+      title="MBC Survey Social Values Dashboard"
+      width="100%"
+      height="760"
+      style="border: 1px solid #ddd; border-radius: 12px; background: #fff;">
+    </iframe>
+  </div>
 
-
-
+Detailed Analysis by Claude Code is available in [my github repo](https://github.com/ye-rim-oh/mbc-survey-dashboard).
 
 \### For reference
 
