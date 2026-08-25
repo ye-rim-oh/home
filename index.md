@@ -13,7 +13,7 @@ permalink: /
   style="display: block; width: 100%; max-width: 980px; border: 1px solid #ddd; border-radius: 8px;">
 
 <p style="margin-top: 0.9rem;">
-I am an MA candidate in International Relations at Seoul National University, specializing in Asian International Relations, with my degree expected in August 2026. My research began with a constructivist focus on how historical identities and elite perceptions shape contemporary foreign policy. More recently, I have expanded this focus beyond elites to examine how identity and political perceptions are shaped among the broader public, including how AI influences these processes and political behavior.
+I hold an M.A. in International Relations from Seoul National University, specializing in Asian International Relations. My research began with a constructivist focus on how historical identities and elite perceptions shape contemporary foreign policy. More recently, I have expanded this focus beyond elites to examine how identities and political perceptions are formed and activated among the broader public, and under what conditions they shape political attitudes and behavior. Methodologically, I am particularly interested in using computational text analysis to study these processes, as well as in examining how changing information environments, including AI-mediated communication, condition the formation and activation of political identities and perceptions.
 
 </p>
 
