@@ -22,7 +22,7 @@ enable_copy_code_button: true
 author:
   name: "Yerim Oh"
   avatar: "/assets/images/profile-photo-placeholder.svg"
-  bio: "MA in International Relations, Seoul National University"
+  bio: "MA in International Relations, Seoul&nbsp;National&nbsp;University"
   location:
   links:
     - label: "GitHub"
